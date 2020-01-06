@@ -447,6 +447,8 @@ namespace Microsoft.PowerShell.Telemetry
                         "platformidentifier",
                         "pnpdevice",
                         "PowerShellGet",
+                        "PowerShellEditorServices",
+                        "PSScriptAnalyzer",
                         "powershellwebaccess",
                         "printmanagement",
                         "ProcessMitigations",
